@@ -1,1 +1,2 @@
 First (initial) commit
+Second commit in 'from-initial'
